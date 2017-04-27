@@ -1,55 +1,54 @@
-# Política Anti-Assedio
+# Política contra el acoso
 
-Por quê temos uma política anti-assedio oficial para os eventos e atividades do GDG São Paulo?
+Por eso tenemos una política oficial contra el acoso de los eventos y actividades del GDG/ WTM Mendoza?
 
-- Estabelece expectativas para o comportamento no evento. Basta ter uma política anti-assédio para poder combater o assédio.
-- Encoraja pessoas que tiveram uma má experiencia anterior a não deixar de participar das atividades.
-- Fornece aos voluntários instruções sobre como lidar com o assédio rapidamente, com o mínimo de perturbação para as atividades.
+- Establecer las expectativas de comportamiento en el evento. Sólo tienen una política contra el acoso con el fin de luchar contra el acoso.
+- Alentar a las personas que han tenido una mala experiencia anterior de no dejar de participar en las actividades.
+- Proporciona instrucciones voluntarios sobre cómo lidiar con el acoso rápidamente, con la mínima interrupción a las actividades.
 
-O GDG São Paulo é dedicado a fornecer uma experiência de evento livre de assédio para todos, independentemente de:
+El GDG/ WTM Mendoza se dedica a proporcionar una experiencia de acoso evento gratis para todos, con independencia de:
+- género
+- Orientación sexual
+- la discapacidad
+- Identidad de Género
+- edad
+- raza
+- la religión
+- la nacionalidad
 
-- gênero
-- orientação sexual
-- inabilidade
-- identidade de gênero
-- idade
-- raça
-- religião
-- nacionalidade
+Lo anterior no es una lista completa - no toleramos el acoso de los participantes del evento de ninguna manera.
 
-O exposto acima não é uma lista completa - nós não toleramos assédio dos participantes do evento, sob qualquer forma.
+Lenguaje sexual y las imágenes no es adecuado para cualquier lugar, incluyendo conferencias. Los participantes en el caso de que no cumplan estas normas podrán ser expulsados del evento, e incluso prohibió a los acontecimientos futuros a discreción de los organizadores.
 
-Linguagem sexual e imagens não é apropriado para qualquer local do evento, incluindo palestras. Os participantes do evento que violem estas regras pode ser expulso do evento, e até mesmo proibidos de eventos futuros, a critério dos organizadores.
+Acoso incluye (pero no se limita a):
+- Los comentarios verbales ofensivos relacionados con el género, la orientación sexual, discapacidad, identidad de género, edad, raza, religión
+- El uso o exhibición de imágenes sexuales en espacios públicos
+- la intimidación deliberada
+- La persecución
+- Fotografía acoso o grabación
+- Alteración de la voz u otros eventos
+- el contacto físico inapropiado
+- La atención sexual no deseada
 
-Assédio inclui (mas não está limitado a):
-- Comentários verbais ofensivos relacionadas ao gênero, orientação sexual, deficiência, identidade de gênero, idade, raça, religião
-- O uso ou exibição de imagens sexuais em espaços públicos
-- Intimidação deliberada
-- Perseguição
-- Fotografia assédio ou gravação
-- Perturbação da fala ou outros acontecimentos
-- Contato físico inapropriado
-- Atenção sexual indesejada
+Si un participante que pide para detener cualquier conducta de acoso, esto debe ser atendido inmediatamente.
 
-Se um participante pedir para parar qualquer comportamento de assédio, esse deve ser atendido imediatamente.
+Socios expositoras y oradores invitados también están sujetos a la política anti-acoso. En particular, los expositores y oradores no deben usar imágenes sexuales, actividades, u otro material, o de otro modo crear un ambiente sexualizado en sus series de diapositivas, pantallas de visualización personales, artículos de material promocional o de demostración.
 
-Expositoras parceiros e palestrantes convidados também estão sujeitas à política anti-assédio. Em particular, os expositores e palestrantes não deve usar imagens sexualizadas, atividades ou outro material, ou de outra forma criar um ambiente sexualizado em seus conjuntos de slides, material de exposição, exibição de pessoal, itens promocionais ou de materiais de demonstração.
+Si usted está siendo acosado, observe que alguien está siendo acosado, o cualquier otra inquietud, organizador de contactos o voluntario de inmediato. Los organizadores investigar el problema y tomar las medidas adecuadas. Esto puede incluir ayuda a los participantes a ponerse en contacto con la seguridad local o la policía local, proporcionar servicios de acompañantes, o ayudar a aquellos que experimentan el acoso se sienta seguro durante la duración del evento.
 
-Se você está sendo assediado, perceber que alguém está sendo assediado, ou tem quaisquer outras preocupações, entre em contato com organizador ou voluntário imediatamente. Os organizadores vão investigar o problema e tomar as medidas adequadas. Isso pode incluir ajudar os participantes a entrar em contato com a segurança local ou a aplicação da lei local, fornecer escoltas, ou ajudar aqueles que experimentam o assédio para se sentir seguro para a duração do evento.
+Contacto: wtmmendoza@gmail.com / gdgmendoza@gmail.com
 
-Contato: organizers@gdgsp.org
+Aunque esperamos que nunca tenemos que invocar esta política, creemos que el tener este documento ayuda a todos a pensar un poco más acerca de cómo sus acciones y palabras afectan a toda la comunidad, así como individuos en la comunidad.
 
-Embora nós esperamos que nós nunca temos que invocar esta política, acreditamos que ter este documento ajuda a todos pensar um pouco mais sobre como suas ações e palavras afetam toda a comunidade, bem como indivíduos na comunidade.
+### Licencia y Asignación
 
-### Licença e Atribuição
+Esta política se encuentra bajo la licencia Creative Commons Zero. Esta política se basa en una serie de otras políticas, incluida la política contra el acoso Ohio LinuxFest, escrito por Esther Filderman y Beth Lynn Eicher, y contra el acoso Proyecto Con. Mary Gardiner, Valerie Aurora, Sarah Smith y Donna Benjamin políticas generalizadas y garantía añadida. Muchos miembros de LinuxChix, friki Feminismo y otros grupos contribuyeron a este trabajo.
 
-Esta política está licenciado sob o Creative Commons Zero license. Esta política baseia-se em várias outras políticas, incluindo A política Anti-Assédio da Ohio LinuxFest, escrita por Esther Filderman e Beth Lynn Eicher, e o Projeto Anti-Assédio Con. Mary Gardiner, Valerie Aurora, Sarah Smith, e Donna Benjamin generalizaram as políticas e acrescentaram material de apoio. Muitos membros da LinuxChix, Geek Feminism e outros grupos contribuiram com esse trabalho.
+Tiene alguna sugerencia para insertamos en la política? Háganoslo saber.
 
-Tem alguma sugestão para inserirmos na política? Nos avise.
+GDG MENDOZA| WOMEN TECHMAKERS MENDOZA
 
-GDG SÃO PAULO | WOMEN TECHMAKERS SÃO PAULO
-
-Jan, 2016
+Abril, 2017
 
 
  
