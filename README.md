@@ -1,54 +1,34 @@
 # Política contra el acoso
 
-Por eso tenemos una política oficial contra el acoso de los eventos y actividades del GDG/ WTM Mendoza?
+Pyladies se dedica a proporcionar una comunidad respetuosa, libre de acoso para todos. No toleramos el hostigamiento o intimidación de ningún miembro de la comunidad en ninguna forma. Esto no sólo se extiende a los miembros de las comunidades PyLadies locales, sino a cualquier persona que elija involucrarse en la comunidad PyLadies más grande de usuarios, desarrolladores e integradores a través de eventos o interacciones.
 
-- Establecer las expectativas de comportamiento en el evento. Sólo tienen una política contra el acoso con el fin de luchar contra el acoso.
-- Alentar a las personas que han tenido una mala experiencia anterior de no dejar de participar en las actividades.
-- Proporciona instrucciones voluntarios sobre cómo lidiar con el acoso rápidamente, con la mínima interrupción a las actividades.
+El acoso incluye comentarios ofensivos verbales / electrónicos relacionados con características personales o elecciones, imágenes sexuales o comentarios en espacios públicos o en línea, intimidación deliberada, intimidación, acoso, seguimiento, acoso de fotografía o grabación, interrupción sostenida de charlas, chats IRC, reuniones electrónicas, Reuniones u otros eventos, contacto físico inapropiado o atención sexual no deseada. Se espera que los participantes que pidan que detengan cualquier comportamiento de acoso o intimidación cumplan de inmediato.
 
-El GDG/ WTM Mendoza se dedica a proporcionar una experiencia de acoso evento gratis para todos, con independencia de:
-- género
-- Orientación sexual
-- la discapacidad
+Si un participante comete un comportamiento de acoso, los representantes de la comunidad pueden tomar las medidas razonables que consideren apropiadas, incluyendo la advertencia del infractor, la expulsión de cualquier evento de PyLadies o la expulsión de las listas de correo, chats del IRC, foros de discusión y otros canales de comunicaciones electrónicas. problema. Esto puede incluir la expulsión de miembros del grupo Meetup de PyLadies.
+
+Si está siendo acosado, note que alguien más está siendo acosado o tiene alguna otra preocupación, actúe para interceder o pedir ayuda de cualquier miembro de la comunidad de PyLadies, administradores de chat del IRC, administradores del sitio web u organizadores / representantes de cualquier organización física. Eventos realizados bajo los auspicios de PyLadies.
+
+
+El Pyladies Mendoza y un evento dedicado a proporcionar experiencia sin Assedio para todo el mundo, sin tener en cuenta:
+- el sexo
+- Orientación
+- Discapacidad
 - Identidad de Género
-- edad
-- raza
-- la religión
-- la nacionalidad
+- Edad
+- Carrera
+- Religión
+- Nacionalidad
 
 Lo anterior no es una lista completa - no toleramos el acoso de los participantes del evento de ninguna manera.
 
-Lenguaje sexual y las imágenes no es adecuado para cualquier lugar, incluyendo conferencias. Los participantes en el caso de que no cumplan estas normas podrán ser expulsados del evento, e incluso prohibió a los acontecimientos futuros a discreción de los organizadores.
-
-Acoso incluye (pero no se limita a):
-- Los comentarios verbales ofensivos relacionados con el género, la orientación sexual, discapacidad, identidad de género, edad, raza, religión
-- El uso o exhibición de imágenes sexuales en espacios públicos
-- la intimidación deliberada
-- La persecución
-- Fotografía acoso o grabación
-- Alteración de la voz u otros eventos
-- el contacto físico inapropiado
-- La atención sexual no deseada
-
-Si un participante que pide para detener cualquier conducta de acoso, esto debe ser atendido inmediatamente.
-
-Socios expositoras y oradores invitados también están sujetos a la política anti-acoso. En particular, los expositores y oradores no deben usar imágenes sexuales, actividades, u otro material, o de otro modo crear un ambiente sexualizado en sus series de diapositivas, pantallas de visualización personales, artículos de material promocional o de demostración.
-
-Si usted está siendo acosado, observe que alguien está siendo acosado, o cualquier otra inquietud, organizador de contactos o voluntario de inmediato. Los organizadores investigar el problema y tomar las medidas adecuadas. Esto puede incluir ayuda a los participantes a ponerse en contacto con la seguridad local o la policía local, proporcionar servicios de acompañantes, o ayudar a aquellos que experimentan el acoso se sienta seguro durante la duración del evento.
-
-Contacto: wtmmendoza@gmail.com / gdgmendoza@gmail.com
-
-Aunque esperamos que nunca tenemos que invocar esta política, creemos que el tener este documento ayuda a todos a pensar un poco más acerca de cómo sus acciones y palabras afectan a toda la comunidad, así como individuos en la comunidad.
 
 ### Licencia y Asignación
 
-Esta política se encuentra bajo la licencia Creative Commons Zero. Esta política se basa en una serie de otras políticas, incluida la política contra el acoso Ohio LinuxFest, escrito por Esther Filderman y Beth Lynn Eicher, y contra el acoso Proyecto Con. Mary Gardiner, Valerie Aurora, Sarah Smith y Donna Benjamin políticas generalizadas y garantía añadida. Muchos miembros de LinuxChix, friki Feminismo y otros grupos contribuyeron a este trabajo.
+Este Código de Conducta ha sido adaptado de la Fundación Plone y está licenciado bajo una licencia Creative Commons Reconocimiento-Compartir Igual 3.0 Unported.
 
 Tiene alguna sugerencia para insertamos en la política? Háganoslo saber.
 
-GDG MENDOZA| WOMEN TECHMAKERS MENDOZA
+PYLADIES MENDOZA
+Maio, 2017
 
-Abril, 2017
 
-
- 
