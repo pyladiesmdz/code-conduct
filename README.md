@@ -32,3 +32,37 @@ PYLADIES MENDOZA
 Maio, 2017
 
 
+-------
+
+# Política anti-assédio
+
+Pyladies se dedica a fornecer uma comunidade respeitosa e livre de assédio para todos. Não toleramos assédio ou intimidação de qualquer forma de qualquer membro da comunidade. Isso se estende não apenas aos membros das comunidades locais PyLadies, mas a qualquer pessoa que opte por se envolver na comunidade maior de usuários, desenvolvedores e integradores PyLadies por meio de eventos ou interações.
+
+O assédio inclui comentários verbais/eletrônicos ofensivos relacionados a características ou escolhas pessoais, imagens ou comentários sexuais em espaços públicos ou on-line, intimidação deliberada, intimidação, perseguição, perseguição, fotografia ou gravação de assédio, interrupção sustentada de bate-papos, bate-papos de IRC, reuniões de comunicações eletrônicas, reuniões ou outros eventos, contato físico inadequado ou atenção sexual indesejada. Espera-se que os participantes solicitados a interromper qualquer comportamento de assédio ou intimidação cumpram imediatamente.
+
+Se um participante se envolver em comportamento de assédio, os representantes da comunidade poderão tomar as medidas razoáveis ​​que considerarem apropriadas, incluindo alertar o infrator, expulsão de qualquer evento PyLadies ou expulsão de listas de e-mail, chats de IRC, fóruns de discussão e outros canais de comunicação eletrônica. problema. Isso pode incluir a expulsão de membros do grupo PyLadies Meetup.
+
+Se você estiver sendo assediado, perceber que outra pessoa está sendo assediada ou tiver qualquer outra preocupação, aja para interceder ou peça ajuda a qualquer membro da comunidade PyLadies, administradores de bate-papo IRC, administradores de sites ou organizadores/representantes de qualquer organização física. Eventos realizados sob os auspícios da PyLadies.
+
+
+O Pyladies Mendoza e um evento dedicado a proporcionar experiência sem Assedio para todos, sem levar em conta:
+- sexo
+- Orientação
+- Incapacidade
+- Identidade de gênero
+- Idade
+- Carreira
+- Religião
+- Nacionalidade
+
+A lista acima não é uma lista completa - não toleramos assédio de forma alguma aos participantes do evento.
+
+
+### Licença e Atribuição
+
+Este Código de Conduta foi adaptado da Plone Foundation e está licenciado sob uma licença Creative Commons Attribution-ShareAlike 3.0 Unported.
+
+Você tem alguma sugestão para inserirmos na política? Deixe-nos saber.
+
+PYLADIES MENDOZA
+Maio, 2017
